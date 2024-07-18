@@ -1,0 +1,11 @@
+.ToDoItem {
+  margin: 0;
+  padding: 10px 20px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: inherit;
+  border-radius: 10px;
+}
+.completed {
+  text-decoration: line-through;
+}
